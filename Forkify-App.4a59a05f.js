@@ -3369,6 +3369,7 @@ Fraction.primeFactors = function(n) {
 module.exports.Fraction = Fraction;
 
 },{}],"2kjY2":[function(require,module,exports,__globalThis) {
+// import icons from 'url:../../img/icons.svg';
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 class View {
