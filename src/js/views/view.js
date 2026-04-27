@@ -4,6 +4,7 @@ export default class View {
   _parentElement;
   _data;
   _icons = new URL('../../img/icons.svg', import.meta.url).href; // Js standard import
+  // _icons = ''; // Js standard import
 
   /**
    * Render the received object to the DOM
